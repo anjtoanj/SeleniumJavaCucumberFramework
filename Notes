@@ -1,0 +1,3 @@
+######To remove flaky tests / improve the stability of the selenium framework following implementation helps ####
+1. PageFactory
+2. AjaxELementLocatorFactoryClass 
